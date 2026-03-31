@@ -43,11 +43,12 @@ Before building the interactive dashboard, a comprehensive analysis was performe
 git clone [https://github.com/YOUR_USERNAME/AirTemp-Analytics.git](https://github.com/YOUR_USERNAME/AirTemp-Analytics.git)
 cd AirTemp-Analytics
 
-2. Install Requirements
-
+### 2. Install Requirements
+```bash
 pip install -r requirements.txt
-3. Launch the App
 
+### 3. Launch the App
+```bash
 streamlit run app.py
 
 
@@ -62,9 +63,4 @@ climate-change-backgrounder.jpg: Custom UI background asset.
 
 👩‍💻 Author
 Hetaxi Rathod
----
 
-### 💡 Final Steps for GitHub:
-1. **The Notebook File**: Ensure `Airtemp.ipynb` is in the main folder (root) of your project so the link in the README works.
-2. **Commit Message**: When you upload this to GitHub, use a message like: *"Add EDA notebook and update README for AirTemp Analytics project."*
-3. **Environment**: Since you are using a notebook, make sure `ipykernel` is installed in your `venv` so you can run the EDA inside VS Code.
