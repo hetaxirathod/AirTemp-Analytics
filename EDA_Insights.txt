@@ -1,0 +1,13 @@
+CO2 Emissions Divergence: Developing countries show a clear upward trend in per capita CO2 emissions, especially post-2020, reflecting rapid industrialization, while developed countries maintain more stable, moderate emissions with smaller fluctuations.
+
+Population Volatility: Developed countries experience steadier population growth with fewer dramatic changes, whereas developing countries show higher volatility in population averages, influenced by socioeconomic factors like birth rates and migration.
+
+Renewable Energy Adoption: Developed countries demonstrate more consistent growth in renewable energy share (mostly 25%-34%), while developing countries exhibit more fluctuating and inconsistent renewable adoption patterns.
+
+Forest Area Trends: Developed countries’ forest areas fluctuate between 35%-50% with periods of preservation and deforestation; developing countries show similar volatility but with more pronounced deforestation and less sustained recovery.
+
+Temperature and Weather Extremes: Both country groups face similar temperature ranges and volatile extreme weather event frequencies; no clear evidence that forest area or renewable share alone reduces temperature spikes or event frequency nationally.
+
+Population and Environmental Impact: High population countries contribute more to total emissions making scale a bigger issue than per capita rates, while renewable energy shares tend to be higher but more volatile in populous countries, which also face greater deforestation pressures.
+
+Renewables Mitigate Emissions Growth but Not Resilience: Countries with high renewable energy share tend to show slower and more stable CO2 emission growth; however, this does not clearly translate into fewer extreme weather events or measurable temperature benefits at a national level.
